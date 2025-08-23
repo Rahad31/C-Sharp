@@ -21,11 +21,6 @@
                 car2.ShowCarInfo();
 
 
-
-            //Console.WriteLine("\n--- Car Information ---");
-
-            //Console.WriteLine("\nPress any key to exit...");
-            //Console.ReadKey();
         }
     }
 }
